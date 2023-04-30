@@ -1,0 +1,15 @@
+C:\Users\mehry\Desktop\DZ6\41task\obj\Debug\net6.0\41task.csproj.AssemblyReference.cache
+C:\Users\mehry\Desktop\DZ6\41task\obj\Debug\net6.0\41task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehry\Desktop\DZ6\41task\obj\Debug\net6.0\41task.AssemblyInfoInputs.cache
+C:\Users\mehry\Desktop\DZ6\41task\obj\Debug\net6.0\41task.AssemblyInfo.cs
+C:\Users\mehry\Desktop\DZ6\41task\obj\Debug\net6.0\41task.csproj.CoreCompileInputs.cache
+C:\Users\mehry\Desktop\DZ6\41task\bin\Debug\net6.0\41task.exe
+C:\Users\mehry\Desktop\DZ6\41task\bin\Debug\net6.0\41task.deps.json
+C:\Users\mehry\Desktop\DZ6\41task\bin\Debug\net6.0\41task.runtimeconfig.json
+C:\Users\mehry\Desktop\DZ6\41task\bin\Debug\net6.0\41task.dll
+C:\Users\mehry\Desktop\DZ6\41task\bin\Debug\net6.0\41task.pdb
+C:\Users\mehry\Desktop\DZ6\41task\obj\Debug\net6.0\41task.dll
+C:\Users\mehry\Desktop\DZ6\41task\obj\Debug\net6.0\refint\41task.dll
+C:\Users\mehry\Desktop\DZ6\41task\obj\Debug\net6.0\41task.pdb
+C:\Users\mehry\Desktop\DZ6\41task\obj\Debug\net6.0\41task.genruntimeconfig.cache
+C:\Users\mehry\Desktop\DZ6\41task\obj\Debug\net6.0\ref\41task.dll
