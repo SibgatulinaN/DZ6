@@ -1,0 +1,15 @@
+C:\Users\mehry\Desktop\DZ6\43task\bin\Debug\net6.0\43task.exe
+C:\Users\mehry\Desktop\DZ6\43task\bin\Debug\net6.0\43task.deps.json
+C:\Users\mehry\Desktop\DZ6\43task\bin\Debug\net6.0\43task.runtimeconfig.json
+C:\Users\mehry\Desktop\DZ6\43task\bin\Debug\net6.0\43task.dll
+C:\Users\mehry\Desktop\DZ6\43task\bin\Debug\net6.0\43task.pdb
+C:\Users\mehry\Desktop\DZ6\43task\obj\Debug\net6.0\43task.csproj.AssemblyReference.cache
+C:\Users\mehry\Desktop\DZ6\43task\obj\Debug\net6.0\43task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehry\Desktop\DZ6\43task\obj\Debug\net6.0\43task.AssemblyInfoInputs.cache
+C:\Users\mehry\Desktop\DZ6\43task\obj\Debug\net6.0\43task.AssemblyInfo.cs
+C:\Users\mehry\Desktop\DZ6\43task\obj\Debug\net6.0\43task.csproj.CoreCompileInputs.cache
+C:\Users\mehry\Desktop\DZ6\43task\obj\Debug\net6.0\43task.dll
+C:\Users\mehry\Desktop\DZ6\43task\obj\Debug\net6.0\refint\43task.dll
+C:\Users\mehry\Desktop\DZ6\43task\obj\Debug\net6.0\43task.pdb
+C:\Users\mehry\Desktop\DZ6\43task\obj\Debug\net6.0\43task.genruntimeconfig.cache
+C:\Users\mehry\Desktop\DZ6\43task\obj\Debug\net6.0\ref\43task.dll
